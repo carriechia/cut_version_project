@@ -1,0 +1,56 @@
+.header {
+  height: 64px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+}
+
+.main {
+  padding-top: 64px;
+}
+
+.footer {
+  background-color: #f7f7f7;
+}
+
+.footer > .hero {
+  padding: 24px 0;
+}
+
+@media (min-width: 576px) {
+  .footer > .hero > .container {
+    max-width: 600px;
+  }
+}
+
+@media (min-width: 576px) {
+  .footer > .hero > .container {
+    max-width: 600px;
+  }
+}
+
+@media (min-width: 576px) {
+  .footer > .hero > .container {
+    max-width: 600px;
+  }
+}
+
+@media (min-width: 576px) {
+  .footer > .hero > .container {
+    max-width: 600px;
+  }
+}
+
+#features {
+  height: 1000px;
+  background-color: blue;
+  font-size: 100px;
+}
+
+#about {
+  height: 2000px;
+  background-color: orange;
+  font-size: 100px;
+}
+/*# sourceMappingURL=index.css.map */
